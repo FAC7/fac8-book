@@ -2,7 +2,7 @@
 
 "Box Model" used when talking about design and layout and refers to the idea of viewing HTML elements as boxes, which have margin, border and padding properties.
 
-![](https://mdn.mozillademos.org/files/8685/boxmodel-(3)
+![](https://mdn.mozillademos.org/files/8685/boxmodel-(3))
 background colour of the content is extended with the padding (grey). Blue border makes element stand out. Invisible margin allows us greater control with positioning that element.
 ## See how the box model can affect an HTML element:
 
@@ -53,11 +53,10 @@ For alternative border properties shorthand, see the padding property section ab
 
 Margin is an invisible box which is used to separate divs/images from each other.
 
-
-
 [Further Reading - MDN page](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 
-### Further - what are the possible units given (px, %, em)
+##### Possible units for all of above:  
+px or % or em
 
 
 
